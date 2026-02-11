@@ -276,7 +276,6 @@ const selPrice = document.getElementById("selPrice");
 const selAward = document.getElementById("selAward");
 
 const isChain = document.getElementById("isChain");
-const inView = document.getElementById("inView");
 
 document.getElementById("btnReset").onclick = function () {
   isGlutenFree.checked = false;
@@ -295,7 +294,6 @@ document.getElementById("btnReset").onclick = function () {
   selAward.value = "ALL";
 
   isChain.checked = false;
-  inView.checked = false;
 
   refresh();
 };
@@ -492,8 +490,6 @@ function refresh() {
   const feature = selFeature.value;
   const award = selAward.value;
 
-  const bounds = inView.checked ? map.getBounds() : null;
-
   DATA.forEach((d, idx) => {
     // checkbox filters
     if (gluten && !d.isGlutenFree) return;
@@ -512,7 +508,6 @@ function refresh() {
     if (award !== "ALL" && !d.awards.includes(award)) return;
 
     if (isChain.checked && !d.chain) return;
-    if (inView.checked && bounds && !bounds.contains([d.lat, d.lon])) return;
 
     const c = ratingColor(d.avgRating);
 
@@ -598,17 +593,13 @@ function refresh() {
   });
 }
 
-map.on("moveend zoomend", function () {
-  if (inView.checked) refresh();
-});
-
 // Initialize selects and events
 function initSelects() {
   [selCountry, selCity, selPrice, selCuisine, selMeal, selFeature, selAward].forEach(loadSelectQuery);
 }
 
 function initEvents() {
-  [isGlutenFree, isVegan, isVegetarian, selCountry, selCity, selPrice, isChain, inView]
+  [isGlutenFree, isVegan, isVegetarian, selCountry, selCity, selPrice, isChain]
     .filter(x => !!x)
     .forEach(x => x.onchange = refresh);
 

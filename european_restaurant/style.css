@@ -58,7 +58,7 @@ body {
 #graphPanel{
     position:absolute;
     width:40vh;
-    top:42vh;
+    top:40vh;
     left:10px;
     z-index:1000;
 
