@@ -1,0 +1,1880 @@
+@prefix : <http://ltr.european-restaurants.org/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+
+:restaurant_g499509-d12386096 rdfs:label "Five Guys"@en ;
+    owl:sameAs wd:Q1131810 .
+
+:restaurant_g315927-d8809797 rdfs:label "Starbucks"@en ;
+    owl:sameAs wd:Q37158 .
+
+:restaurant_g946314-d2149396 rdfs:label "Buffalo Grill"@en ;
+    owl:sameAs wd:Q944655 .
+
+:restaurant_g190441-d8372407 rdfs:label "Starbucks"@en ;
+    owl:sameAs wd:Q37158 .
+
+:restaurant_g504022-d7153915 rdfs:label "Starbucks"@en ;
+    owl:sameAs wd:Q37158 .
+
+:restaurant_g186258-d2318027 rdfs:label "KFC"@en ;
+    owl:sameAs wd:Q524757 .
+
+:restaurant_g2161235-d3812863 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g190733-d7348801 rdfs:label "Burger King"@en ;
+    owl:sameAs wd:Q177054 .
+
+:restaurant_g187064-d12178107 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g186430-d3736441 rdfs:label "Caffe Nero"@en ;
+    owl:sameAs wd:Q675808 .
+
+:restaurant_g503830-d8059442 rdfs:label "Prezzo"@en ;
+    owl:sameAs wd:Q7242489 .
+
+:restaurant_g499511-d7097773 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g227129-d6474643 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g186370-d3457608 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g1235458-d9734296 rdfs:label "KFC"@en ;
+    owl:sameAs wd:Q524757 .
+
+:restaurant_g186368-d5098804 rdfs:label "Caffe Nero"@en ;
+    owl:sameAs wd:Q675808 .
+
+:restaurant_g188590-d4341446 rdfs:label "Burger King"@en ;
+    owl:sameAs wd:Q177054 .
+
+:restaurant_g661263-d11995709 rdfs:label "Burger King"@en ;
+    owl:sameAs wd:Q177054 .
+
+:restaurant_g186336-d2314781 rdfs:label "Starbucks"@en ;
+    owl:sameAs wd:Q37158 .
+
+:restaurant_g186225-d7253945 rdfs:label "Five Guys"@en ;
+    owl:sameAs wd:Q1131810 .
+
+:restaurant_g186254-d2520216 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g190813-d7159674 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g503847-d4314736 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g2009283-d10720527 rdfs:label "Buffalo Grill"@en ;
+    owl:sameAs wd:Q944655 .
+
+:restaurant_g186328-d5312889 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g315927-d10587791 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g186501-d12930201 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g644113-d5957246 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g504076-d4453937 rdfs:label "Starbucks"@en ;
+    owl:sameAs wd:Q37158 .
+
+:restaurant_g661476-d8758379 rdfs:label "Burger King"@en ;
+    owl:sameAs wd:Q177054 .
+
+:restaurant_g1096571-d5416540 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g186399-d5259184 rdfs:label "Caffe Nero"@en ;
+    owl:sameAs wd:Q675808 .
+
+:restaurant_g186414-d3508435 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g186403-d8638195 rdfs:label "Wagamama"@en ;
+    owl:sameAs wd:Q503715 .
+
+:restaurant_g190735-d4752159 rdfs:label "Caffe Nero"@en ;
+    owl:sameAs wd:Q675808 .
+
+:restaurant_g187147-d695232 rdfs:label "Buffalo Grill"@en ;
+    owl:sameAs wd:Q944655 .
+
+:restaurant_g315939-d7732115 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g187147-d695231 rdfs:label "Buffalo Grill"@en ;
+    owl:sameAs wd:Q944655 .
+
+:restaurant_g1025628-d4561493 rdfs:label "Courtepaille"@en ;
+    owl:sameAs wd:Q3116688 .
+
+:restaurant_g186239-d8598742 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g1822621-d4924099 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g190735-d13343013 rdfs:label "Five Guys"@en ;
+    owl:sameAs wd:Q1131810 .
+
+:restaurant_g190776-d5107911 rdfs:label "Mcdonald's Restaurants"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g186306-d7213404 rdfs:label "Caffe Nero"@en ;
+    owl:sameAs wd:Q675808 .
+
+:restaurant_g186299-d10107543 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g186346-d8616590 rdfs:label "Costa"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g503900-d4473618 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g186460-d2062205 rdfs:label "Wagamama"@en ;
+    owl:sameAs wd:Q503715 .
+
+:restaurant_g1076986-d5263241 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g499482-d4547161 rdfs:label "Caffe Nero"@en ;
+    owl:sameAs wd:Q675808 .
+
+:restaurant_g1213768-d732654 rdfs:label "Bella Italia"@en ;
+    owl:sameAs wd:Q4883362 .
+
+:restaurant_g504213-d4912964 rdfs:label "Mcdonald's Restaurants"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g662290-d4700962 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g503909-d6954324 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g1147565-d2475264 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g580293-d5487598 rdfs:label "Pizza Hut"@en ;
+    owl:sameAs wd:Q191615 .
+
+:restaurant_g504009-d8554793 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g186459-d2468659 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g186402-d10059248 rdfs:label "Five Guys"@en ;
+    owl:sameAs wd:Q1131810 .
+
+:restaurant_g482940-d15314724 rdfs:label "Au Bureau"@en ;
+    owl:sameAs wd:Q100701566 .
+
+:restaurant_g191278-d4919399 rdfs:label "Caffe Nero"@en ;
+    owl:sameAs wd:Q675808 .
+
+:restaurant_g186346-d4924979 rdfs:label "KFC"@en ;
+    owl:sameAs wd:Q524757 .
+
+:restaurant_g186543-d4911186 rdfs:label "Burger King"@en ;
+    owl:sameAs wd:Q177054 .
+
+:restaurant_g2433765-d8800277 rdfs:label "Wagamama"@en ;
+    owl:sameAs wd:Q503715 .
+
+:restaurant_g503904-d8727274 rdfs:label "Bella Italia"@en ;
+    owl:sameAs wd:Q4883362 .
+
+:restaurant_g186284-d1012669 rdfs:label "Prezzo"@en ;
+    owl:sameAs wd:Q7242489 .
+
+:restaurant_g187053-d2287508 rdfs:label "Bella Italia"@en ;
+    owl:sameAs wd:Q4883362 .
+
+:restaurant_g190764-d5891978 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g551993-d2508083 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g186298-d7087510 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g186346-d952932 rdfs:label "Bella Italia"@en ;
+    owl:sameAs wd:Q4883362 .
+
+:restaurant_g190733-d12286573 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g503956-d10026805 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g209956-d4708566 rdfs:label "Costa"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g186346-d7110491 rdfs:label "Caffe Nero"@en ;
+    owl:sameAs wd:Q675808 .
+
+:restaurant_g187053-d10308978 rdfs:label "Prezzo"@en ;
+    owl:sameAs wd:Q7242489 .
+
+:restaurant_g190767-d2251472 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g673605-d3639549 rdfs:label "Pizza Hut"@en ;
+    owl:sameAs wd:Q191615 .
+
+:restaurant_g186402-d6676213 rdfs:label "Five Guys"@en ;
+    owl:sameAs wd:Q1131810 .
+
+:restaurant_g1480935-d2006509 rdfs:label "Prezzo"@en ;
+    owl:sameAs wd:Q7242489 .
+
+:restaurant_g190801-d3645667 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g494704-d7596839 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g499571-d4102761 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g616283-d3734311 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g2138961-d7246527 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g504026-d5087952 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g186273-d4046861 rdfs:label "Starbucks"@en ;
+    owl:sameAs wd:Q37158 .
+
+:restaurant_g186394-d11656269 rdfs:label "Bella Italia"@en ;
+    owl:sameAs wd:Q4883362 .
+
+:restaurant_g187147-d695229 rdfs:label "Buffalo Grill"@en ;
+    owl:sameAs wd:Q944655 .
+
+:restaurant_g1067660-d12416280 rdfs:label "Buffalo Grill"@en ;
+    owl:sameAs wd:Q944655 .
+
+:restaurant_g186411-d5967041 rdfs:label "Prezzo"@en ;
+    owl:sameAs wd:Q7242489 .
+
+:restaurant_g666384-d7708271 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g6012865-d3242602 rdfs:label "Costa"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g315977-d3562613 rdfs:label "Starbucks"@en ;
+    owl:sameAs wd:Q37158 .
+
+:restaurant_g187182-d5957641 rdfs:label "Buffalo Grill"@en ;
+    owl:sameAs wd:Q944655 .
+
+:restaurant_g187514-d11773532 rdfs:label "Five Guys"@en ;
+    owl:sameAs wd:Q1131810 .
+
+:restaurant_g1495396-d7132315 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g190773-d8038078 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g186258-d2426409 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g190726-d5034924 rdfs:label "Mcdonald's Restaurants"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g186258-d2426408 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g186460-d7911516 rdfs:label "Five Guys"@en ;
+    owl:sameAs wd:Q1131810 .
+
+:restaurant_g504032-d8076052 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g196701-d3567255 rdfs:label "Buffalo Grill"@en ;
+    owl:sameAs wd:Q944655 .
+
+:restaurant_g190757-d5321241 rdfs:label "Mcdonald's Restaurants"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g1373028-d15364799 rdfs:label "Au Bureau"@en ;
+    owl:sameAs wd:Q100701566 .
+
+:restaurant_g780820-d9603721 rdfs:label "Caffe Nero"@en ;
+    owl:sameAs wd:Q675808 .
+
+:restaurant_g504146-d3908975 rdfs:label "KFC"@en ;
+    owl:sameAs wd:Q524757 .
+
+:restaurant_g187147-d12538197 rdfs:label "Five Guys"@en ;
+    owl:sameAs wd:Q1131810 .
+
+:restaurant_g504167-d12716823 rdfs:label "Five Guys"@en ;
+    owl:sameAs wd:Q1131810 .
+
+:restaurant_g187069-d2370836 rdfs:label "Caffe Nero"@en ;
+    owl:sameAs wd:Q675808 .
+
+:restaurant_g187058-d10695833 rdfs:label "Five Guys"@en ;
+    owl:sameAs wd:Q1131810 .
+
+:restaurant_g186337-d1907031 rdfs:label "wagamama"@en ;
+    owl:sameAs wd:Q503715 .
+
+:restaurant_g187055-d12027822 rdfs:label "Five Guys"@en ;
+    owl:sameAs wd:Q1131810 .
+
+:restaurant_g503756-d4910324 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g2239857-d9787732 rdfs:label "Buffalo Grill"@en ;
+    owl:sameAs wd:Q944655 .
+
+:restaurant_g186262-d4732291 rdfs:label "Starbucks"@en ;
+    owl:sameAs wd:Q37158 .
+
+:restaurant_g187791-d4156679 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g186530-d2011053 rdfs:label "Bella Italia"@en ;
+    owl:sameAs wd:Q4883362 .
+
+:restaurant_g776264-d6736466 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g504093-d5267083 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g1210848-d8505220 rdfs:label "Buffalo Grill"@en ;
+    owl:sameAs wd:Q944655 .
+
+:restaurant_g186605-d7399641 rdfs:label "Eddie Rocket's"@en ;
+    owl:sameAs wd:Q1007312 .
+
+:restaurant_g186411-d8490278 rdfs:label "Five Guys"@en ;
+    owl:sameAs wd:Q1131810 .
+
+:restaurant_g190821-d6131615 rdfs:label "KFC"@en ;
+    owl:sameAs wd:Q524757 .
+
+:restaurant_g229456-d15634984 rdfs:label "Au Bureau"@en ;
+    owl:sameAs wd:Q100701566 .
+
+:restaurant_g187055-d6613087 rdfs:label "Starbucks"@en ;
+    owl:sameAs wd:Q37158 .
+
+:restaurant_g1226793-d5316501 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g190730-d5241193 rdfs:label "Caffe Nero"@en ;
+    owl:sameAs wd:Q675808 .
+
+:restaurant_g315871-d796297 rdfs:label "Eddie Rocket's"@en ;
+    owl:sameAs wd:Q1007312 .
+
+:restaurant_g196492-d8297642 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g209942-d3940641 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g1443265-d3261969 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g186394-d4187016 rdfs:label "Starbucks"@en ;
+    owl:sameAs wd:Q37158 .
+
+:restaurant_g2187442-d10758015 rdfs:label "KFC"@en ;
+    owl:sameAs wd:Q524757 .
+
+:restaurant_g186377-d3898096 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g1080272-d8429083 rdfs:label "Courtepaille"@en ;
+    owl:sameAs wd:Q3116688 .
+
+:restaurant_g190725-d11694132 rdfs:label "wagamama"@en ;
+    owl:sameAs wd:Q503715 .
+
+:restaurant_g6372475-d8517084 rdfs:label "Buffalo Grill"@en ;
+    owl:sameAs wd:Q944655 .
+
+:restaurant_g528813-d9818163 rdfs:label "Caffe Nero"@en ;
+    owl:sameAs wd:Q675808 .
+
+:restaurant_g528774-d3258191 rdfs:label "prezzo"@en ;
+    owl:sameAs wd:Q7242489 .
+
+:restaurant_g186254-d7203629 rdfs:label "Starbucks"@en ;
+    owl:sameAs wd:Q37158 .
+
+:restaurant_g186605-d5549826 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g1165147-d7287460 rdfs:label "Buffalo Grill"@en ;
+    owl:sameAs wd:Q944655 .
+
+:restaurant_g1077005-d3454026 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g274887-d1410681 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g504038-d3562439 rdfs:label "Caffe Nero"@en ;
+    owl:sameAs wd:Q675808 .
+
+:restaurant_g186332-d5448052 rdfs:label "Starbucks"@en ;
+    owl:sameAs wd:Q37158 .
+
+:restaurant_g528777-d4888541 rdfs:label "Starbucks"@en ;
+    owl:sameAs wd:Q37158 .
+
+:restaurant_g187061-d4040077 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g3175452-d7612151 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g499482-d4080864 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g635678-d3915746 rdfs:label "KFC"@en ;
+    owl:sameAs wd:Q524757 .
+
+:restaurant_g186411-d4366643 rdfs:label "Wagamama"@en ;
+    owl:sameAs wd:Q503715 .
+
+:restaurant_g186543-d3698416 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g1213768-d3207856 rdfs:label "Pizza Hut"@en ;
+    owl:sameAs wd:Q191615 .
+
+:restaurant_g504009-d3871144 rdfs:label "Caffe Nero"@en ;
+    owl:sameAs wd:Q675808 .
+
+:restaurant_g315919-d999775 rdfs:label "Burger King"@en ;
+    owl:sameAs wd:Q177054 .
+
+:restaurant_g187147-d1080856 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g503709-d14193082 rdfs:label "Au Bureau"@en ;
+    owl:sameAs wd:Q100701566 .
+
+:restaurant_g503775-d8795969 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g187065-d5214000 rdfs:label "Mcdonald's Restaurants"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g186259-d10274902 rdfs:label "Costa"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g187069-d12407666 rdfs:label "Five Guys"@en ;
+    owl:sameAs wd:Q1131810 .
+
+:restaurant_g551979-d4344951 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g1162163-d11931579 rdfs:label "Burger King"@en ;
+    owl:sameAs wd:Q177054 .
+
+:restaurant_g207343-d6637538 rdfs:label "Courtepaille"@en ;
+    owl:sameAs wd:Q3116688 .
+
+:restaurant_g186364-d11702150 rdfs:label "Wagamama"@en ;
+    owl:sameAs wd:Q503715 .
+
+:restaurant_g1943010-d14950153 rdfs:label "Buffalo Grill"@en ;
+    owl:sameAs wd:Q944655 .
+
+:restaurant_g196596-d4242076 rdfs:label "Buffalo Grill"@en ;
+    owl:sameAs wd:Q944655 .
+
+:restaurant_g528820-d5568073 rdfs:label "Prezzo"@en ;
+    owl:sameAs wd:Q7242489 .
+
+:restaurant_g503763-d5240908 rdfs:label "Mcdonald's Restaurants"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g186411-d7323371 rdfs:label "Five Guys"@en ;
+    owl:sameAs wd:Q1131810 .
+
+:restaurant_g4049419-d4923635 rdfs:label "Mcdonald's Restaurants"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g504175-d1019726 rdfs:label "Wagamama"@en ;
+    owl:sameAs wd:Q503715 .
+
+:restaurant_g499509-d8713300 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g661488-d8297773 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g190793-d5225672 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g186605-d7063657 rdfs:label "Burger King"@en ;
+    owl:sameAs wd:Q177054 .
+
+:restaurant_g186533-d4550772 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g186233-d7205583 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g186394-d10330635 rdfs:label "Five Guys"@en ;
+    owl:sameAs wd:Q1131810 .
+
+:restaurant_g186233-d7205582 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g503850-d5795656 rdfs:label "Caffe Nero"@en ;
+    owl:sameAs wd:Q675808 .
+
+:restaurant_g804428-d19123252 rdfs:label "Bella Italia"@en ;
+    owl:sameAs wd:Q4883362 .
+
+:restaurant_g187337-d1346393 rdfs:label "Starbucks"@en ;
+    owl:sameAs wd:Q37158 .
+
+:restaurant_g1147569-d4597722 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g189158-d6840626 rdfs:label "Starbucks"@en ;
+    owl:sameAs wd:Q37158 .
+
+:restaurant_g190744-d3635846 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g2549055-d3511774 rdfs:label "Wimpy"@en ;
+    owl:sameAs wd:Q2811992 .
+
+:restaurant_g504210-d11916239 rdfs:label "Five Guys"@en ;
+    owl:sameAs wd:Q1131810 .
+
+:restaurant_g187148-d2608604 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g504226-d5254555 rdfs:label "Mcdonald's Restaurants"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g504196-d5443609 rdfs:label "Costa coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g504175-d6481778 rdfs:label "Five Guys"@en ;
+    owl:sameAs wd:Q1131810 .
+
+:restaurant_g186377-d5259054 rdfs:label "Wimpy"@en ;
+    owl:sameAs wd:Q2811992 .
+
+:restaurant_g499580-d6650584 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g1213768-d6698110 rdfs:label "Five Guys"@en ;
+    owl:sameAs wd:Q1131810 .
+
+:restaurant_g499616-d7990697 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g186337-d9706584 rdfs:label "Five Guys"@en ;
+    owl:sameAs wd:Q1131810 .
+
+:restaurant_g186225-d866337 rdfs:label "Wagamama"@en ;
+    owl:sameAs wd:Q503715 .
+
+:restaurant_g504027-d15330441 rdfs:label "Five Guys"@en ;
+    owl:sameAs wd:Q1131810 .
+
+:restaurant_g186605-d5893377 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g551771-d10047138 rdfs:label "Costa"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g186334-d11758461 rdfs:label "Five Guys"@en ;
+    owl:sameAs wd:Q1131810 .
+
+:restaurant_g186226-d4761194 rdfs:label "Caffe Nero"@en ;
+    owl:sameAs wd:Q675808 .
+
+:restaurant_g551673-d5252617 rdfs:label "Mcdonald's Restaurants"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g188590-d8065895 rdfs:label "Starbucks"@en ;
+    owl:sameAs wd:Q37158 .
+
+:restaurant_g187049-d3931277 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g186363-d4004668 rdfs:label "Pizza Hut"@en ;
+    owl:sameAs wd:Q191615 .
+
+:restaurant_g190784-d7287238 rdfs:label "Five Guys"@en ;
+    owl:sameAs wd:Q1131810 .
+
+:restaurant_g209973-d6440634 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g315954-d3984283 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g190784-d6885522 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g188590-d10504870 rdfs:label "Wagamama"@en ;
+    owl:sameAs wd:Q503715 .
+
+:restaurant_g186263-d4289640 rdfs:label "Wagamama"@en ;
+    owl:sameAs wd:Q503715 .
+
+:restaurant_g1984855-d10836655 rdfs:label "Courtepaille"@en ;
+    owl:sameAs wd:Q3116688 .
+
+:restaurant_g190788-d4923571 rdfs:label "KFC"@en ;
+    owl:sameAs wd:Q524757 .
+
+:restaurant_g188590-d4480676 rdfs:label "Starbucks"@en ;
+    owl:sameAs wd:Q37158 .
+
+:restaurant_g186402-d4783604 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g658907-d1140763 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g1158734-d7379433 rdfs:label "Au Bureau"@en ;
+    owl:sameAs wd:Q100701566 .
+
+:restaurant_g186240-d5079260 rdfs:label "Mcdonald's Restaurants"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g1939278-d12714022 rdfs:label "Burger King"@en ;
+    owl:sameAs wd:Q177054 .
+
+:restaurant_g1142663-d2428934 rdfs:label "Au Bureau"@en ;
+    owl:sameAs wd:Q100701566 .
+
+:restaurant_g196516-d10685757 rdfs:label "Burger King"@en ;
+    owl:sameAs wd:Q177054 .
+
+:restaurant_g186254-d2001767 rdfs:label "Wagamama"@en ;
+    owl:sameAs wd:Q503715 .
+
+:restaurant_g190724-d7337237 rdfs:label "Starbucks"@en ;
+    owl:sameAs wd:Q37158 .
+
+:restaurant_g4737535-d4877827 rdfs:label "Courtepaille"@en ;
+    owl:sameAs wd:Q3116688 .
+
+:restaurant_g191255-d7364842 rdfs:label "KFC"@en ;
+    owl:sameAs wd:Q524757 .
+
+:restaurant_g187046-d2001768 rdfs:label "Wagamama"@en ;
+    owl:sameAs wd:Q503715 .
+
+:restaurant_g190818-d11961948 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g551897-d12324096 rdfs:label "Prezzo"@en ;
+    owl:sameAs wd:Q7242489 .
+
+:restaurant_g186346-d7109834 rdfs:label "Bella Italia"@en ;
+    owl:sameAs wd:Q4883362 .
+
+:restaurant_g189180-d2271930 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g1389087-d6404469 rdfs:label "Kfc"@en ;
+    owl:sameAs wd:Q524757 .
+
+:restaurant_g316014-d6375210 rdfs:label "Starbucks"@en ;
+    owl:sameAs wd:Q37158 .
+
+:restaurant_g186423-d9600296 rdfs:label "Prezzo"@en ;
+    owl:sameAs wd:Q7242489 .
+
+:restaurant_g651728-d17785650 rdfs:label "Au Bureau"@en ;
+    owl:sameAs wd:Q100701566 .
+
+:restaurant_g190807-d3773729 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g186419-d4371215 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g186337-d1011370 rdfs:label "Bella Italia"@en ;
+    owl:sameAs wd:Q4883362 .
+
+:restaurant_g186609-d6226943 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g186254-d2516127 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g186334-d752464 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g187337-d4226209 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g186235-d5810115 rdfs:label "Mcdonald's Restaurants"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g186402-d3446168 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g186605-d8017387 rdfs:label "Eddie Rocket's"@en ;
+    owl:sameAs wd:Q1007312 .
+
+:restaurant_g187048-d5500795 rdfs:label "wagamama"@en ;
+    owl:sameAs wd:Q503715 .
+
+:restaurant_g2433765-d6619226 rdfs:label "Five Guys"@en ;
+    owl:sameAs wd:Q1131810 .
+
+:restaurant_g2199526-d6563699 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g187049-d7107374 rdfs:label "wagamama"@en ;
+    owl:sameAs wd:Q503715 .
+
+:restaurant_g1182377-d7755639 rdfs:label "Starbucks"@en ;
+    owl:sameAs wd:Q37158 .
+
+:restaurant_g190759-d5252661 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g2617019-d5810100 rdfs:label "Mcdonald's Restaurants"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g2543934-d4924909 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g186532-d5228731 rdfs:label "Mcdonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g528807-d5312914 rdfs:label "Mcdonald's Restaurants"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g186273-d10815385 rdfs:label "Five Guys"@en ;
+    owl:sameAs wd:Q1131810 .
+
+:restaurant_g190745-d5816908 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g226874-d5943889 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g187069-d737338 rdfs:label "Wagamama"@en ;
+    owl:sameAs wd:Q503715 .
+
+:restaurant_g189415-d4844870 rdfs:label "Starbucks"@en ;
+    owl:sameAs wd:Q37158 .
+
+:restaurant_g274887-d5494172 rdfs:label "Starbucks"@en ;
+    owl:sameAs wd:Q37158 .
+
+:restaurant_g189449-d2655052 rdfs:label "Starbucks"@en ;
+    owl:sameAs wd:Q37158 .
+
+:restaurant_g776619-d4469141 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g190753-d4282716 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g186530-d5228721 rdfs:label "Mcdonald's Restaurants"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g504093-d3650521 rdfs:label "Caffe Nero"@en ;
+    owl:sameAs wd:Q675808 .
+
+:restaurant_g190762-d4553815 rdfs:label "Bella Italia"@en ;
+    owl:sameAs wd:Q4883362 .
+
+:restaurant_g1076968-d7990949 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g551740-d5815013 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g186346-d2405288 rdfs:label "Prezzo"@en ;
+    owl:sameAs wd:Q7242489 .
+
+:restaurant_g651712-d10146182 rdfs:label "Burger King"@en ;
+    owl:sameAs wd:Q177054 .
+
+:restaurant_g6697567-d8076932 rdfs:label "Buffalo Grill"@en ;
+    owl:sameAs wd:Q944655 .
+
+:restaurant_g187061-d7082272 rdfs:label "Five Guys"@en ;
+    owl:sameAs wd:Q1131810 .
+
+:restaurant_g190727-d951917 rdfs:label "Pizza Hut"@en ;
+    owl:sameAs wd:Q191615 .
+
+:restaurant_g2544544-d9829722 rdfs:label "Buffalo Grill"@en ;
+    owl:sameAs wd:Q944655 .
+
+:restaurant_g186298-d14020629 rdfs:label "Burger King"@en ;
+    owl:sameAs wd:Q177054 .
+
+:restaurant_g7786227-d7350981 rdfs:label "Buffalo Grill"@en ;
+    owl:sameAs wd:Q944655 .
+
+:restaurant_g186460-d2010613 rdfs:label "Bella Italia"@en ;
+    owl:sameAs wd:Q4883362 .
+
+:restaurant_g186337-d12919420 rdfs:label "Five Guys"@en ;
+    owl:sameAs wd:Q1131810 .
+
+:restaurant_g1576811-d7004459 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g787298-d8407938 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g186605-d4232253 rdfs:label "Starbucks"@en ;
+    owl:sameAs wd:Q37158 .
+
+:restaurant_g186411-d4695199 rdfs:label "Starbucks"@en ;
+    owl:sameAs wd:Q37158 .
+
+:restaurant_g659911-d10065125 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g186638-d3140717 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g186508-d9791801 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g190797-d8641165 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g187055-d8572641 rdfs:label "Five Guys"@en ;
+    owl:sameAs wd:Q1131810 .
+
+:restaurant_g186605-d4556949 rdfs:label "Eddie Rocket's"@en ;
+    owl:sameAs wd:Q1007312 .
+
+:restaurant_g1158652-d10067191 rdfs:label "Buffalo Grill"@en ;
+    owl:sameAs wd:Q944655 .
+
+:restaurant_g274887-d1391689 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g2139842-d8058224 rdfs:label "Burger King"@en ;
+    owl:sameAs wd:Q177054 .
+
+:restaurant_g1466790-d3975825 rdfs:label "Starbucks"@en ;
+    owl:sameAs wd:Q37158 .
+
+:restaurant_g644360-d8361651 rdfs:label "Five Guys"@en ;
+    owl:sameAs wd:Q1131810 .
+
+:restaurant_g190729-d4419230 rdfs:label "Starbucks"@en ;
+    owl:sameAs wd:Q37158 .
+
+:restaurant_g1961616-d3373768 rdfs:label "Starbucks"@en ;
+    owl:sameAs wd:Q37158 .
+
+:restaurant_g503747-d4888792 rdfs:label "Wimpy"@en ;
+    owl:sameAs wd:Q2811992 .
+
+:restaurant_g186356-d7810219 rdfs:label "Five Guys"@en ;
+    owl:sameAs wd:Q1131810 .
+
+:restaurant_g186332-d7352639 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g503974-d8530699 rdfs:label "KFC"@en ;
+    owl:sameAs wd:Q524757 .
+
+:restaurant_g186399-d6875511 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g503830-d4371321 rdfs:label "Starbucks"@en ;
+    owl:sameAs wd:Q37158 .
+
+:restaurant_g186390-d6404692 rdfs:label "Five Guys"@en ;
+    owl:sameAs wd:Q1131810 .
+
+:restaurant_g186334-d8826716 rdfs:label "Five Guys"@en ;
+    owl:sameAs wd:Q1131810 .
+
+:restaurant_g186443-d4225900 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g186376-d5316221 rdfs:label "Caffe Nero"@en ;
+    owl:sameAs wd:Q675808 .
+
+:restaurant_g209938-d8015448 rdfs:label "Eddie Rocket's"@en ;
+    owl:sameAs wd:Q1007312 .
+
+:restaurant_g186458-d7688968 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g187050-d5247463 rdfs:label "Mcdonald's Restaurants"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g186530-d7369599 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g1182377-d12335309 rdfs:label "Five Guys"@en ;
+    owl:sameAs wd:Q1131810 .
+
+:restaurant_g189934-d6821834 rdfs:label "Starbucks"@en ;
+    owl:sameAs wd:Q37158 .
+
+:restaurant_g190756-d5483392 rdfs:label "Caffe Nero"@en ;
+    owl:sameAs wd:Q675808 .
+
+:restaurant_g187067-d3873565 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g6368990-d9883908 rdfs:label "Starbucks"@en ;
+    owl:sameAs wd:Q37158 .
+
+:restaurant_g186565-d4913267 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g196650-d11929128 rdfs:label "Burger King"@en ;
+    owl:sameAs wd:Q177054 .
+
+:restaurant_g580406-d8288718 rdfs:label "Starbucks"@en ;
+    owl:sameAs wd:Q37158 .
+
+:restaurant_g1233662-d12208242 rdfs:label "Buffalo Grill"@en ;
+    owl:sameAs wd:Q944655 .
+
+:restaurant_g1136773-d13110507 rdfs:label "Burger King"@en ;
+    owl:sameAs wd:Q177054 .
+
+:restaurant_g580306-d8469549 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g190832-d4497246 rdfs:label "Caffe Nero"@en ;
+    owl:sameAs wd:Q675808 .
+
+:restaurant_g1233743-d4191810 rdfs:label "Costa"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g2018867-d4570159 rdfs:label "Wimpy"@en ;
+    owl:sameAs wd:Q2811992 .
+
+:restaurant_g186605-d11743267 rdfs:label "Five Guys"@en ;
+    owl:sameAs wd:Q1131810 .
+
+:restaurant_g661652-d14955403 rdfs:label "Au Bureau"@en ;
+    owl:sameAs wd:Q100701566 .
+
+:restaurant_g1069784-d4930733 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g1052529-d5423642 rdfs:label "Mcdonald's Restaurants"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g186370-d938684 rdfs:label "Wagamama"@en ;
+    owl:sameAs wd:Q503715 .
+
+:restaurant_g190736-d6779564 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g503883-d8087798 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g186298-d10355013 rdfs:label "Bella Italia"@en ;
+    owl:sameAs wd:Q4883362 .
+
+:restaurant_g189541-d897076 rdfs:label "Burger King"@en ;
+    owl:sameAs wd:Q177054 .
+
+:restaurant_g186460-d9584847 rdfs:label "Five Guys"@en ;
+    owl:sameAs wd:Q1131810 .
+
+:restaurant_g190769-d10505318 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g196659-d3832320 rdfs:label "Buffalo Grill"@en ;
+    owl:sameAs wd:Q944655 .
+
+:restaurant_g187051-d3639352 rdfs:label "Pizza Hut"@en ;
+    owl:sameAs wd:Q191615 .
+
+:restaurant_g196492-d11775086 rdfs:label "Buffalo Grill"@en ;
+    owl:sameAs wd:Q944655 .
+
+:restaurant_g274707-d6166048 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g186364-d8704737 rdfs:label "Five Guys"@en ;
+    owl:sameAs wd:Q1131810 .
+
+:restaurant_g187045-d11033974 rdfs:label "Wagamama"@en ;
+    owl:sameAs wd:Q503715 .
+
+:restaurant_g1217951-d4107323 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g187791-d2290956 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g186368-d13986277 rdfs:label "Wimpy"@en ;
+    owl:sameAs wd:Q2811992 .
+
+:restaurant_g1939278-d6883380 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g503819-d7205597 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g186342-d4299501 rdfs:label "Pizza Hut"@en ;
+    owl:sameAs wd:Q191615 .
+
+:restaurant_g190740-d4702732 rdfs:label "Caffe Nero"@en ;
+    owl:sameAs wd:Q675808 .
+
+:restaurant_g503775-d3983407 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g187064-d1317744 rdfs:label "KFC"@en ;
+    owl:sameAs wd:Q524757 .
+
+:restaurant_g186259-d4304758 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g1941140-d8059533 rdfs:label "Buffalo Grill"@en ;
+    owl:sameAs wd:Q944655 .
+
+:restaurant_g7149412-d6440296 rdfs:label "Starbucks"@en ;
+    owl:sameAs wd:Q37158 .
+
+:restaurant_g186223-d7219418 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g3373640-d5895531 rdfs:label "Courtepaille"@en ;
+    owl:sameAs wd:Q3116688 .
+
+:restaurant_g1210801-d3507310 rdfs:label "Au Bureau"@en ;
+    owl:sameAs wd:Q100701566 .
+
+:restaurant_g186411-d3580936 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g503772-d752147 rdfs:label "Burger King"@en ;
+    owl:sameAs wd:Q177054 .
+
+:restaurant_g503772-d731239 rdfs:label "Prezzo"@en ;
+    owl:sameAs wd:Q7242489 .
+
+:restaurant_g1389092-d3612823 rdfs:label "Courtepaille"@en ;
+    owl:sameAs wd:Q3116688 .
+
+:restaurant_g190923-d10147745 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g661453-d13384987 rdfs:label "Buffalo Grill"@en ;
+    owl:sameAs wd:Q944655 .
+
+:restaurant_g226865-d4068473 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g227127-d8441165 rdfs:label "Prezzo"@en ;
+    owl:sameAs wd:Q7242489 .
+
+:restaurant_g503867-d2011042 rdfs:label "Bella Italia"@en ;
+    owl:sameAs wd:Q4883362 .
+
+:restaurant_g209011-d5890399 rdfs:label "Starbucks"@en ;
+    owl:sameAs wd:Q37158 .
+
+:restaurant_g186605-d696215 rdfs:label "Eddie Rocket's"@en ;
+    owl:sameAs wd:Q1007312 .
+
+:restaurant_g528777-d10039750 rdfs:label "Bella Italia"@en ;
+    owl:sameAs wd:Q4883362 .
+
+:restaurant_g187207-d8835774 rdfs:label "Burger King"@en ;
+    owl:sameAs wd:Q177054 .
+
+:restaurant_g186306-d4913020 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g190724-d3432305 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g2616762-d7231198 rdfs:label "Buffalo Grill"@en ;
+    owl:sameAs wd:Q944655 .
+
+:restaurant_g186306-d4291234 rdfs:label "Starbucks"@en ;
+    owl:sameAs wd:Q37158 .
+
+:restaurant_g187050-d7342063 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g190724-d3432304 rdfs:label "Caffe Nero"@en ;
+    owl:sameAs wd:Q675808 .
+
+:restaurant_g661227-d6781790 rdfs:label "Courtepaille"@en ;
+    owl:sameAs wd:Q3116688 .
+
+:restaurant_g226866-d6972620 rdfs:label "Buffalo Grill"@en ;
+    owl:sameAs wd:Q944655 .
+
+:restaurant_g635906-d4885964 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g186266-d3367092 rdfs:label "Wimpy"@en ;
+    owl:sameAs wd:Q2811992 .
+
+:restaurant_g186460-d2426192 rdfs:label "Starbucks"@en ;
+    owl:sameAs wd:Q37158 .
+
+:restaurant_g1076975-d7230286 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g186363-d4795375 rdfs:label "Five Guys"@en ;
+    owl:sameAs wd:Q1131810 .
+
+:restaurant_g186361-d12950360 rdfs:label "Five Guys"@en ;
+    owl:sameAs wd:Q1131810 .
+
+:restaurant_g188590-d6592006 rdfs:label "Starbucks"@en ;
+    owl:sameAs wd:Q37158 .
+
+:restaurant_g274887-d911196 rdfs:label "Burger King"@en ;
+    owl:sameAs wd:Q177054 .
+
+:restaurant_g186545-d8438926 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g186263-d3636164 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g1646049-d6775129 rdfs:label "Five Guys"@en ;
+    owl:sameAs wd:Q1131810 .
+
+:restaurant_g675738-d4115602 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g4191593-d7285787 rdfs:label "Courtepaille"@en ;
+    owl:sameAs wd:Q3116688 .
+
+:restaurant_g315882-d1940647 rdfs:label "Eddie Rocket's"@en ;
+    owl:sameAs wd:Q1007312 .
+
+:restaurant_g187051-d5270685 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g190783-d10103990 rdfs:label "Prezzo"@en ;
+    owl:sameAs wd:Q7242489 .
+
+:restaurant_g186460-d3956979 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g186466-d9885820 rdfs:label "Five Guys"@en ;
+    owl:sameAs wd:Q1131810 .
+
+:restaurant_g186402-d792874 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g1096734-d6623357 rdfs:label "Starbucks"@en ;
+    owl:sameAs wd:Q37158 .
+
+:restaurant_g551726-d9999356 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g274707-d2509562 rdfs:label "Starbucks"@en ;
+    owl:sameAs wd:Q37158 .
+
+:restaurant_g499487-d8375824 rdfs:label "Bella Italia"@en ;
+    owl:sameAs wd:Q4883362 .
+
+:restaurant_g187054-d5667033 rdfs:label "Wimpy"@en ;
+    owl:sameAs wd:Q2811992 .
+
+:restaurant_g190769-d7732689 rdfs:label "Starbucks"@en ;
+    owl:sameAs wd:Q37158 .
+
+:restaurant_g552035-d8463848 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g186258-d3514096 rdfs:label "Starbucks"@en ;
+    owl:sameAs wd:Q37158 .
+
+:restaurant_g551721-d7046066 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g186226-d3382860 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g13375105-d4919167 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g186605-d4411760 rdfs:label "Eddie Rocket's"@en ;
+    owl:sameAs wd:Q1007312 .
+
+:restaurant_g187791-d4716699 rdfs:label "Burger King"@en ;
+    owl:sameAs wd:Q177054 .
+
+:restaurant_g503837-d6220308 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g186605-d5597960 rdfs:label "Eddie Rocket's"@en ;
+    owl:sameAs wd:Q1007312 .
+
+:restaurant_g678913-d7253803 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g3617505-d4588331 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g187147-d11931368 rdfs:label "Five Guys"@en ;
+    owl:sameAs wd:Q1131810 .
+
+:restaurant_g186273-d5316765 rdfs:label "Mcdonald's Restaurants"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g503847-d9593340 rdfs:label "Five Guys"@en ;
+    owl:sameAs wd:Q1131810 .
+
+:restaurant_g7806066-d5321208 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g658238-d4783203 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g186332-d4908330 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g186284-d12993921 rdfs:label "Five Guys"@en ;
+    owl:sameAs wd:Q1131810 .
+
+:restaurant_g188590-d3724695 rdfs:label "Burger King"@en ;
+    owl:sameAs wd:Q177054 .
+
+:restaurant_g187051-d5532610 rdfs:label "Bella Italia"@en ;
+    owl:sameAs wd:Q4883362 .
+
+:restaurant_g186334-d3653982 rdfs:label "Starbucks"@en ;
+    owl:sameAs wd:Q37158 .
+
+:restaurant_g209011-d3545644 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g1634202-d6522529 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g186418-d6280317 rdfs:label "Caffe Nero"@en ;
+    owl:sameAs wd:Q675808 .
+
+:restaurant_g499507-d7658810 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g186414-d1007200 rdfs:label "Prezzo"@en ;
+    owl:sameAs wd:Q7242489 .
+
+:restaurant_g635821-d9728624 rdfs:label "Burger King"@en ;
+    owl:sameAs wd:Q177054 .
+
+:restaurant_g187069-d3932281 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g635924-d6407992 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g661385-d6914742 rdfs:label "Au Bureau"@en ;
+    owl:sameAs wd:Q100701566 .
+
+:restaurant_g186356-d2002301 rdfs:label "Prezzo"@en ;
+    owl:sameAs wd:Q7242489 .
+
+:restaurant_g7982164-d4044024 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g503794-d6852131 rdfs:label "Five Guys"@en ;
+    owl:sameAs wd:Q1131810 .
+
+:restaurant_g503833-d6785308 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g186424-d3620078 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g187055-d7313984 rdfs:label "Pizza Hut"@en ;
+    owl:sameAs wd:Q191615 .
+
+:restaurant_g187481-d5489068 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g187253-d16721473 rdfs:label "Buffalo Grill"@en ;
+    owl:sameAs wd:Q944655 .
+
+:restaurant_g12612069-d13004971 rdfs:label "Buffalo Grill"@en ;
+    owl:sameAs wd:Q944655 .
+
+:restaurant_g189116-d4340144 rdfs:label "Costa"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g186225-d2011021 rdfs:label "Bella Italia"@en ;
+    owl:sameAs wd:Q4883362 .
+
+:restaurant_g315977-d3570593 rdfs:label "Caffe Nero"@en ;
+    owl:sameAs wd:Q675808 .
+
+:restaurant_g190745-d6874817 rdfs:label "Costa"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g1471580-d5423534 rdfs:label "Mcdonald's Restaurants"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g187213-d15350435 rdfs:label "Buffalo Grill"@en ;
+    owl:sameAs wd:Q944655 .
+
+:restaurant_g666960-d5259505 rdfs:label "Mcdonald's Restaurants"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g580419-d2166673 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g186298-d15279367 rdfs:label "Five Guys"@en ;
+    owl:sameAs wd:Q1131810 .
+
+:restaurant_g562730-d12213510 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g580419-d2166672 rdfs:label "Caffe Nero"@en ;
+    owl:sameAs wd:Q675808 .
+
+:restaurant_g315931-d3820940 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g186311-d4602451 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g186487-d5244819 rdfs:label "Caffe Nero"@en ;
+    owl:sameAs wd:Q675808 .
+
+:restaurant_g187063-d2459268 rdfs:label "Caffe Nero"@en ;
+    owl:sameAs wd:Q675808 .
+
+:restaurant_g552009-d7741601 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g186364-d5087971 rdfs:label "Burger King"@en ;
+    owl:sameAs wd:Q177054 .
+
+:restaurant_g226858-d9681381 rdfs:label "Buffalo Grill"@en ;
+    owl:sameAs wd:Q944655 .
+
+:restaurant_g186428-d3978275 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g189180-d7799350 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g227059-d4404443 rdfs:label "Starbucks"@en ;
+    owl:sameAs wd:Q37158 .
+
+:restaurant_g187147-d3457827 rdfs:label "Starbucks"@en ;
+    owl:sameAs wd:Q37158 .
+
+:restaurant_g1080348-d8811448 rdfs:label "Buffalo Grill"@en ;
+    owl:sameAs wd:Q944655 .
+
+:restaurant_g196600-d8424574 rdfs:label "Courtepaille"@en ;
+    owl:sameAs wd:Q3116688 .
+
+:restaurant_g3206729-d4755964 rdfs:label "Courtepaille"@en ;
+    owl:sameAs wd:Q3116688 .
+
+:restaurant_g186487-d5229215 rdfs:label "Burger King"@en ;
+    owl:sameAs wd:Q177054 .
+
+:restaurant_g580429-d4918590 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g196668-d12690362 rdfs:label "Burger King"@en ;
+    owl:sameAs wd:Q177054 .
+
+:restaurant_g504214-d4503990 rdfs:label "Costa"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g186342-d11768634 rdfs:label "Five Guys"@en ;
+    owl:sameAs wd:Q1131810 .
+
+:restaurant_g186402-d3141015 rdfs:label "wagamama"@en ;
+    owl:sameAs wd:Q503715 .
+
+:restaurant_g7713330-d9564189 rdfs:label "Buffalo Grill"@en ;
+    owl:sameAs wd:Q944655 .
+
+:restaurant_g651713-d2493443 rdfs:label "Courtepaille"@en ;
+    owl:sameAs wd:Q3116688 .
+
+:restaurant_g503829-d8799216 rdfs:label "Prezzo"@en ;
+    owl:sameAs wd:Q7242489 .
+
+:restaurant_g661457-d2342730 rdfs:label "Courtepaille"@en ;
+    owl:sameAs wd:Q3116688 .
+
+:restaurant_g186302-d752393 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g635686-d7596033 rdfs:label "Costa"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g190761-d6885063 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g1096784-d7778515 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g186430-d3734733 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g1158598-d10475673 rdfs:label "Buffalo Grill"@en ;
+    owl:sameAs wd:Q944655 .
+
+:restaurant_g186460-d4913175 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g190744-d752605 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g196709-d6701585 rdfs:label "Courtepaille"@en ;
+    owl:sameAs wd:Q3116688 .
+
+:restaurant_g186345-d7285480 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g504161-d4925341 rdfs:label "Mcdonald's Restaurants"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g186364-d9800081 rdfs:label "Five Guys"@en ;
+    owl:sameAs wd:Q1131810 .
+
+:restaurant_g186406-d733829 rdfs:label "Prezzo"@en ;
+    owl:sameAs wd:Q7242489 .
+
+:restaurant_g187046-d8397194 rdfs:label "Caffe Nero"@en ;
+    owl:sameAs wd:Q675808 .
+
+:restaurant_g186326-d5240691 rdfs:label "Caffe Nero"@en ;
+    owl:sameAs wd:Q675808 .
+
+:restaurant_g504029-d6937576 rdfs:label "Burger King"@en ;
+    owl:sameAs wd:Q177054 .
+
+:restaurant_g551937-d7708384 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g190832-d6352471 rdfs:label "KFC"@en ;
+    owl:sameAs wd:Q524757 .
+
+:restaurant_g186363-d2011040 rdfs:label "Bella Italia"@en ;
+    owl:sameAs wd:Q4883362 .
+
+:restaurant_g186337-d8476003 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g504091-d2545893 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g644364-d5075229 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g186311-d4602449 rdfs:label "Burger King"@en ;
+    owl:sameAs wd:Q177054 .
+
+:restaurant_g187053-d2399996 rdfs:label "Pizza Hut"@en ;
+    owl:sameAs wd:Q191615 .
+
+:restaurant_g186337-d5970580 rdfs:label "Starbucks"@en ;
+    owl:sameAs wd:Q37158 .
+
+:restaurant_g186376-d4924132 rdfs:label "Mcdonald's Restaurants"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g1096430-d5816424 rdfs:label "Starbucks  "@en ;
+    owl:sameAs wd:Q37158 .
+
+:restaurant_g1096727-d4829604 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g190793-d10169887 rdfs:label "Five Guys"@en ;
+    owl:sameAs wd:Q1131810 .
+
+:restaurant_g4414494-d9569936 rdfs:label "Starbucks"@en ;
+    owl:sameAs wd:Q37158 .
+
+:restaurant_g187046-d11437005 rdfs:label "Five Guys"@en ;
+    owl:sameAs wd:Q1131810 .
+
+:restaurant_g186621-d1550198 rdfs:label "Bella Italia"@en ;
+    owl:sameAs wd:Q4883362 .
+
+:restaurant_g186342-d752527 rdfs:label "Bella Italia"@en ;
+    owl:sameAs wd:Q4883362 .
+
+:restaurant_g186419-d1149095 rdfs:label "Wagamama"@en ;
+    owl:sameAs wd:Q503715 .
+
+:restaurant_g190757-d1830356 rdfs:label "Pizza Hut"@en ;
+    owl:sameAs wd:Q191615 .
+
+:restaurant_g608797-d8297693 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g503725-d8407869 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g186262-d951207 rdfs:label "Wagamama"@en ;
+    owl:sameAs wd:Q503715 .
+
+:restaurant_g664093-d11920522 rdfs:label "Courtepaille"@en ;
+    owl:sameAs wd:Q3116688 .
+
+:restaurant_g209970-d7375545 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g227124-d12884257 rdfs:label "Wagamama"@en ;
+    owl:sameAs wd:Q503715 .
+
+:restaurant_g315919-d999812 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g196562-d3775636 rdfs:label "Courtepaille"@en ;
+    owl:sameAs wd:Q3116688 .
+
+:restaurant_g1096782-d8613999 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g190722-d5104040 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g189158-d3932173 rdfs:label "Starbucks"@en ;
+    owl:sameAs wd:Q37158 .
+
+:restaurant_g503982-d5249746 rdfs:label "Burger King"@en ;
+    owl:sameAs wd:Q177054 .
+
+:restaurant_g5111754-d10788685 rdfs:label "KFC"@en ;
+    owl:sameAs wd:Q524757 .
+
+:restaurant_g190773-d7252124 rdfs:label "Caffe Nero"@en ;
+    owl:sameAs wd:Q675808 .
+
+:restaurant_g186262-d12523611 rdfs:label "Five Guys"@en ;
+    owl:sameAs wd:Q1131810 .
+
+:restaurant_g1498598-d8784794 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g186363-d966154 rdfs:label "Wagamama"@en ;
+    owl:sameAs wd:Q503715 .
+
+:restaurant_g187147-d10682588 rdfs:label "Five Guys"@en ;
+    owl:sameAs wd:Q1131810 .
+
+:restaurant_g503775-d3505993 rdfs:label "Starbucks"@en ;
+    owl:sameAs wd:Q37158 .
+
+:restaurant_g3206729-d15348317 rdfs:label "Au Bureau"@en ;
+    owl:sameAs wd:Q100701566 .
+
+:restaurant_g186254-d4919011 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g186530-d8765006 rdfs:label "Starbucks"@en ;
+    owl:sameAs wd:Q37158 .
+
+:restaurant_g188590-d7651713 rdfs:label "Starbucks"@en ;
+    owl:sameAs wd:Q37158 .
+
+:restaurant_g186356-d5461551 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g186298-d5252588 rdfs:label "Caffe Nero"@en ;
+    owl:sameAs wd:Q675808 .
+
+:restaurant_g274887-d2294209 rdfs:label "Starbucks"@en ;
+    owl:sameAs wd:Q37158 .
+
+:restaurant_g528820-d4770746 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g186336-d4451208 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g186327-d6594468 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g187067-d3193372 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g186284-d4759938 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g6481127-d9567941 rdfs:label "Buffalo Grill"@en ;
+    owl:sameAs wd:Q944655 .
+
+:restaurant_g196539-d15560358 rdfs:label "Au Bureau"@en ;
+    owl:sameAs wd:Q100701566 .
+
+:restaurant_g186334-d753790 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g503822-d3647906 rdfs:label "Wimpy"@en ;
+    owl:sameAs wd:Q2811992 .
+
+:restaurant_g187147-d7370298 rdfs:label "Starbucks"@en ;
+    owl:sameAs wd:Q37158 .
+
+:restaurant_g190822-d8385284 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g499614-d8796010 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g187147-d3605632 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g2239857-d10145792 rdfs:label "Burger King"@en ;
+    owl:sameAs wd:Q177054 .
+
+:restaurant_g644370-d1316082 rdfs:label "Wimpy"@en ;
+    owl:sameAs wd:Q2811992 .
+
+:restaurant_g209968-d5986583 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g186326-d5312589 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g660198-d8765179 rdfs:label "Buffalo Grill"@en ;
+    owl:sameAs wd:Q944655 .
+
+:restaurant_g187067-d7338554 rdfs:label "KFC"@en ;
+    owl:sameAs wd:Q524757 .
+
+:restaurant_g1912657-d8297257 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g191265-d9763208 rdfs:label "Wagamama"@en ;
+    owl:sameAs wd:Q503715 .
+
+:restaurant_g186239-d7706925 rdfs:label "Burger King"@en ;
+    owl:sameAs wd:Q177054 .
+
+:restaurant_g504038-d4910409 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g1389084-d6507869 rdfs:label "Courtepaille"@en ;
+    owl:sameAs wd:Q3116688 .
+
+:restaurant_g503833-d4910066 rdfs:label "Burger King"@en ;
+    owl:sameAs wd:Q177054 .
+
+:restaurant_g186368-d7350052 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g187162-d16743156 rdfs:label "Five Guys"@en ;
+    owl:sameAs wd:Q1131810 .
+
+:restaurant_g662606-d9985834 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g187337-d13195780 rdfs:label "Five Guys"@en ;
+    owl:sameAs wd:Q1131810 .
+
+:restaurant_g477981-d11994760 rdfs:label "Wagamama"@en ;
+    owl:sameAs wd:Q503715 .
+
+:restaurant_g186419-d6687107 rdfs:label "Caffe Nero"@en ;
+    owl:sameAs wd:Q675808 .
+
+:restaurant_g187057-d2548521 rdfs:label "Pizza Hut"@en ;
+    owl:sameAs wd:Q191615 .
+
+:restaurant_g186286-d3896868 rdfs:label "Costa"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g528758-d8125227 rdfs:label "Costa"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g499507-d6404031 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g315978-d967769 rdfs:label "Prezzo"@en ;
+    owl:sameAs wd:Q7242489 .
+
+:restaurant_g503983-d5408530 rdfs:label "Mcdonald's Restaurants"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g186299-d12181580 rdfs:label "Five Guys"@en ;
+    owl:sameAs wd:Q1131810 .
+
+:restaurant_g676145-d8574409 rdfs:label "Buffalo Grill"@en ;
+    owl:sameAs wd:Q944655 .
+
+:restaurant_g186402-d10081315 rdfs:label "Five Guys"@en ;
+    owl:sameAs wd:Q1131810 .
+
+:restaurant_g651735-d9606357 rdfs:label "Burger King"@en ;
+    owl:sameAs wd:Q177054 .
+
+:restaurant_g190454-d2274807 rdfs:label "Starbucks"@en ;
+    owl:sameAs wd:Q37158 .
+
+:restaurant_g187046-d5989999 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g187212-d11668910 rdfs:label "Burger King"@en ;
+    owl:sameAs wd:Q177054 .
+
+:restaurant_g190454-d4059205 rdfs:label "Starbucks"@en ;
+    owl:sameAs wd:Q37158 .
+
+:restaurant_g186406-d9747708 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g186222-d733769 rdfs:label "Prezzo"@en ;
+    owl:sameAs wd:Q7242489 .
+
+:restaurant_g1213768-d2343209 rdfs:label "Starbucks"@en ;
+    owl:sameAs wd:Q37158 .
+
+:restaurant_g528774-d4067610 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g477981-d4090848 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g186361-d5121344 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g186233-d7650723 rdfs:label "Caffe Nero"@en ;
+    owl:sameAs wd:Q675808 .
+
+:restaurant_g186414-d5817311 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g445040-d13413182 rdfs:label "Eddie Rocket's"@en ;
+    owl:sameAs wd:Q1007312 .
+
+:restaurant_g504171-d3351188 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g186402-d6776177 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g186233-d3736552 rdfs:label "Caffe Nero"@en ;
+    owl:sameAs wd:Q675808 .
+
+:restaurant_g196639-d14401882 rdfs:label "Au Bureau"@en ;
+    owl:sameAs wd:Q100701566 .
+
+:restaurant_g503847-d8261826 rdfs:label "Caffe Nero"@en ;
+    owl:sameAs wd:Q675808 .
+
+:restaurant_g190773-d2308551 rdfs:label "Caffe Nero"@en ;
+    owl:sameAs wd:Q675808 .
+
+:restaurant_g504182-d8400872 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g651713-d5866261 rdfs:label "Buffalo Grill"@en ;
+    owl:sameAs wd:Q944655 .
+
+:restaurant_g186254-d11952204 rdfs:label "Five Guys"@en ;
+    owl:sameAs wd:Q1131810 .
+
+:restaurant_g186487-d11785405 rdfs:label "Five Guys"@en ;
+    owl:sameAs wd:Q1131810 .
+
+:restaurant_g187045-d5259095 rdfs:label "Wimpy"@en ;
+    owl:sameAs wd:Q2811992 .
+
+:restaurant_g186273-d1010635 rdfs:label "Wagamama"@en ;
+    owl:sameAs wd:Q503715 .
+
+:restaurant_g186299-d3914131 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g187051-d8042183 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g186402-d8732136 rdfs:label "Starbucks"@en ;
+    owl:sameAs wd:Q37158 .
+
+:restaurant_g190724-d753016 rdfs:label "McDonald's"@en ;
+    owl:sameAs wd:Q38076 .
+
+:restaurant_g1207908-d8512496 rdfs:label "Costa"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g503922-d3935871 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g186632-d7063704 rdfs:label "Eddie Rocket's"@en ;
+    owl:sameAs wd:Q1007312 .
+
+:restaurant_g186402-d8006533 rdfs:label "Caffe Nero"@en ;
+    owl:sameAs wd:Q675808 .
+
+:restaurant_g187045-d731223 rdfs:label "Prezzo"@en ;
+    owl:sameAs wd:Q7242489 .
+
+:restaurant_g4973329-d4951005 rdfs:label "Buffalo Grill"@en ;
+    owl:sameAs wd:Q944655 .
+
+:restaurant_g635924-d4043729 rdfs:label "Caffe Nero"@en ;
+    owl:sameAs wd:Q675808 .
+
+:restaurant_g9783973-d4928182 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g186406-d5769150 rdfs:label "Caffe Nero"@en ;
+    owl:sameAs wd:Q675808 .
+
+:restaurant_g503748-d3542903 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g8115740-d7931815 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+
+:restaurant_g186605-d4136113 rdfs:label "Eddie Rocket's"@en ;
+    owl:sameAs wd:Q1007312 .
+
+:restaurant_g186558-d4684539 rdfs:label "Starbucks"@en ;
+    owl:sameAs wd:Q37158 .
+
+:restaurant_g499613-d7032449 rdfs:label "Costa Coffee"@en ;
+    owl:sameAs wd:Q608845 .
+

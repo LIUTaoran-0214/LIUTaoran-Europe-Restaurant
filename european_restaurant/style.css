@@ -1,0 +1,123 @@
+body {
+    background: #000000;
+    margin: 0;
+}
+
+#map {
+    height: 100vh;
+}
+
+/* Control panel */
+#controlPanel{
+    position:absolute;
+    width:40vh;
+    
+    top:10px;
+    left:10px;
+    z-index:1000;
+
+    background:#ffffff;
+    color:#000000;
+    border:1px solid #cccccc;
+    
+    padding:10px;
+}
+
+#controlPanel .panelTitle{  
+    margin-bottom:8px; 
+}
+
+#controlPanel .row{ 
+    margin-bottom:8px; 
+}
+
+#controlPanel label{ 
+    margin-right:10px; 
+    font-size:12px; 
+}
+
+#controlPanel .field{ 
+    display:inline-block; 
+    margin-right:10px; 
+}
+
+#controlPanel .label{ 
+    font-size:12px; 
+    margin-bottom:2px; 
+}
+
+#controlPanel select{ 
+    width:140px; 
+}
+
+#btnReset{ 
+    padding:4px 8px; 
+}
+
+/* Graph panel */
+#graphPanel{
+    position:absolute;
+    width:40vh;
+    top:42vh;
+    left:10px;
+    z-index:1000;
+
+    background:#ffffff;
+    color:#000000;
+    border:1px solid #cccccc;
+    
+    padding:10px;
+}
+
+#graphPanel .graphTitle{ 
+    font-size: 12px;  
+    margin-bottom: 4px; 
+}
+
+#graphPanel .graph svg text{ 
+    font-size: 11px; 
+}
+
+.charTitle{
+    font-size: 12px;
+    font-weight: bolder;
+}
+
+/* Legend for dots colors */
+#legend{
+    position: absolute;
+
+    right: 10px;
+    bottom: 10px;
+    z-index: 1000;
+    
+    background: #ffffff;
+    color: #000000;    
+    border: 1px solid #cccccc;
+    
+    padding: 10px;
+}
+#legend .item{
+    display: flex;
+    align-items: center;
+    
+    gap: 8px;
+    margin: 4px 0;
+}
+#legend .dotRed, #legend .dotOrange, #legend .dotBlue, #legend .dotPurple{
+    width: 12px;
+    height: 12px;
+    display: inline-block;
+}
+#legend .dotRed{ 
+    background:#D2042D; 
+}
+#legend .dotOrange{ 
+    background:#FF4500; 
+}
+#legend .dotBlue{ 
+    background:#318CE7; 
+}
+#legend .dotPurple{ 
+    background:#9400D3; 
+}

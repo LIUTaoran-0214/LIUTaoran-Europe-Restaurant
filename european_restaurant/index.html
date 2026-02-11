@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>European Restaurants</title>
+
+  <!-- Leaflet -->
+   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
+     integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI="
+     crossorigin=""/>
+   <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"
+     integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM="
+     crossorigin=""></script>
+
+  <!-- D3 -->
+  <script src="https://d3js.org/d3.v3.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/ktym/d3sparql@master/d3sparql.min.js"></script>
+
+  <!-- Style -->
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  
+  <div id="map"></div>
+
+  <!-- Control Panel -->
+  <div id="controlPanel">
+    <div class="panelTitle">Select Restaurants</div>
+
+    <div class="row">
+      <label><input type="checkbox" id="isGlutenFree"> Gluten Free</label>
+      <label><input type="checkbox" id="isVegan"> Vegan Options</label>
+      <label><input type="checkbox" id="isVegetarian"> Vegetarian Friendly</label>
+    </div>
+
+    <div class="row">
+      <div class="label">Min rating: <span id="minRatingVal">0.0</span></div>
+      <input type="range" id="minRating" min="0" max="5" step="0.5" value="0">
+    </div>
+
+    <div class="row">
+      <div class="field">
+        <div class="label">Country</div>
+        <select id="selCountry" data-prop="country"></select>
+      </div>
+      <div class="field">
+        <div class="label">City</div>
+        <select id="selCity" data-prop="city"></select>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="field">
+        <div class="label">Cuisine</div>
+        <select id="selCuisine" data-prop="cuisines"></select>
+      </div>
+      <div class="field">
+        <div class="label">Meal</div>
+        <select id="selMeal" data-prop="meals"></select>
+      </div>
+      <div class="field">
+        <div class="label">Feature</div>
+        <select id="selFeature" data-prop="features"></select>
+      </div>
+      <div class="field">
+        <div class="label">Price Level</div>
+        <select id="selPrice" data-prop="priceLevel"></select>
+      </div>
+      <div class="field">
+        <div class="label">Award</div>
+        <select id="selAward" data-prop="awards"></select>
+      </div>
+
+      <button id="btnReset">Reset</button>
+    </div>
+
+    <div class="row">
+      <label><input type="checkbox" id="isChain"> Only chain restaurants</label>
+    </div>
+
+    <div class="row">
+      <label><input type="checkbox" id="inView"> Only in current map view</label>
+    </div>
+  </div>
+
+  <!-- Graph Panel -->
+  <div id="graphPanel">
+    <div class="graphPanelTitle">Statistical graphs</div>
+
+    <div class="graphs">
+      <div class="graphTitle">Top Cuisines</div>
+      <div id="graphCuisine"></div>
+    </div>
+
+    <div class="graphs">
+      <div class="graphTitle">Rating distribution</div>
+      <div id="graphRating"></div>
+    </div>
+
+    <div class="graphs">
+      <div class="graphTitle">Top Meals</div>
+      <div id="graphMeal"></div>
+    </div>
+  </div>
+
+  <!-- Legend -->
+  <div id="legend">
+    <div class="title">Average Rating</div>
+
+    <div class="item">
+      <span class="dotRed"></span>
+      <span>&lt; 2.5</span>
+    </div>
+    <div class="item">
+      <span class="dotOrange"></span>
+      <span>2.5 - 3.5</span>
+    </div>
+    <div class="item">
+      <span class="dotBlue"></span>
+      <span>3.5 - 4.5</span>
+    </div>
+    <div class="item">
+      <span class="dotPurple"></span>
+      <span>≥ 4.5</span>
+    </div>
+  </div>
+    
+  <script src="app.js"></script>
+</body>
+</html>
